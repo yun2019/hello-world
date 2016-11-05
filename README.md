@@ -1,2 +1,2 @@
-# my ubuntu configuration
+# My Ubuntu Configuration
 
